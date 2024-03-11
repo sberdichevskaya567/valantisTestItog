@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valantisTestItog/static/css/main.7c5e0d51.css",
+    "main.js": "/valantisTestItog/static/js/main.d7321e9a.js",
+    "static/media/productСover7.jpg": "/valantisTestItog/static/media/productСover7.80dee8f6586349934328.jpg",
+    "static/media/productСover9.jpg": "/valantisTestItog/static/media/productСover9.067d4811ad378403ced6.jpg",
+    "static/media/productСover5.jpg": "/valantisTestItog/static/media/productСover5.8861c6841060760819f1.jpg",
+    "static/media/productСover10.jpg": "/valantisTestItog/static/media/productСover10.86fea311e06661f51e34.jpg",
+    "static/media/productСover3.jpg": "/valantisTestItog/static/media/productСover3.b52f5a0832c3a6df00ae.jpg",
+    "static/media/productСover1.jpg": "/valantisTestItog/static/media/productСover1.4533954c23bcb68823cc.jpg",
+    "static/media/productСover2.jpg": "/valantisTestItog/static/media/productСover2.2ce0a8118b00651fa7b6.jpg",
+    "static/media/productСover4.jpg": "/valantisTestItog/static/media/productСover4.de2581405f630beb1bc9.jpg",
+    "static/media/productСover6.jpg": "/valantisTestItog/static/media/productСover6.7892424bbb9bede21590.jpg",
+    "static/media/productСover8.jpg": "/valantisTestItog/static/media/productСover8.e79f7c9db4ce165871e1.jpg",
+    "index.html": "/valantisTestItog/index.html",
+    "main.7c5e0d51.css.map": "/valantisTestItog/static/css/main.7c5e0d51.css.map",
+    "main.d7321e9a.js.map": "/valantisTestItog/static/js/main.d7321e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5e0d51.css",
+    "static/js/main.d7321e9a.js"
+  ]
+}
